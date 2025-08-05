@@ -139,3 +139,36 @@ body {
     flex-wrap: wrap;
     margin: 40px 0px;
 }
+.contanior{
+text-align: center;
+font-size: xx-large;
+}
+.contanior1{
+text-align: center;
+font-size: larger;
+
+}
+.contanior2 img {
+position: absolute;
+left: 50%;
+}
+.contanior3{
+color:red;
+font-size: 25px;
+}
+.contanior4{
+font-size: 50px;
+
+}
+.contanior5{
+font-size: 20px;
+}
+.contanior6 img{
+margin: 70px;
+padding: 50px;
+}
+.contanior7 {
+color:red;
+font-size: 25px;
+
+}
