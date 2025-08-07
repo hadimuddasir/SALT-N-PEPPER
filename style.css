@@ -139,36 +139,97 @@ body {
     flex-wrap: wrap;
     margin: 40px 0px;
 }
-.contanior{
+.contanior1{
+
+}
+
+.item{
 text-align: center;
 font-size: xx-large;
 }
-.contanior1{
+.item1{
 text-align: center;
 font-size: larger;
 
 }
-.contanior2 img {
+.item2 img {
 position: absolute;
 left: 50%;
 }
-.contanior3{
+.item3{
 color:red;
 font-size: 25px;
 }
-.contanior4{
+.item4{
 font-size: 50px;
 
 }
-.contanior5{
+.item5{
 font-size: 20px;
 }
-.contanior6 img{
+.item6 img{
 margin: 70px;
 padding: 50px;
 }
-.contanior7 {
+.item7 {
 color:red;
 font-size: 25px;
+display: flex;
+flex-direction: row-reverse;
+position: relative;
+bottom:400px ;
+right: 570px;
+}
+.item8{
+font-size:50px ;
+display: flex;
+flex-direction: row-reverse;
+position: relative;
+bottom:390px ;
+right: 200px;
+}
+.item9{
+font-size: 25px;
+display: flex;
+flex-direction: row-reverse;
+position: relative;
+bottom:400px ;
+right: 395px;
+flex-wrap: wrap;
 
 }
+.item10{
+  font-size: 25px;
+display: flex;
+flex-direction: row-reverse;
+position: relative;
+bottom:400px ;
+right:500px;
+flex-wrap: wrap;
+
+}
+.item11 img {
+position: absolute;
+left: 50%;
+top: 280%;
+display: flex;
+flex-wrap: wrap;
+width: auto;
+table-layout: auto;
+}
+.item12{
+  color:red;
+font-size: 20px;  
+position: absolute;
+top: 1825px;
+}
+.iem13{
+   font-size: 30px; 
+   position: absolute;
+   top: 1870px;
+}
+.item14{
+  font-size: 20px;
+  position: absolute;
+  top: 1935px;
+}  
